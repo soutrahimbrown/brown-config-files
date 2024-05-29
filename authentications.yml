@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+authentications:
+  message: "Welcome to authentications a related docker APIs "
+  contactDetails:
+    name: "srhdp - Developer"
+    email: "john@srhdp.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
